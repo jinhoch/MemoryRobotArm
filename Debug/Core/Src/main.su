@@ -1,0 +1,12 @@
+../Core/Src/main.c:56:5:__io_putchar	16	static
+../Core/Src/main.c:133:5:main	32	static
+../Core/Src/main.c:216:6:SystemClock_Config	88	static
+../Core/Src/main.c:270:13:MX_NVIC_Init	8	static
+../Core/Src/main.c:285:6:init_malloc	16	static
+../Core/Src/main.c:317:16:resize_malloc	48	static
+../Core/Src/main.c:384:6:robot_arm_move	24	static
+../Core/Src/main.c:405:6:robot_arm_memory	56	static
+../Core/Src/main.c:462:6:robot_arm_memory_move	48	static
+../Core/Src/main.c:489:10:my_abs	16	static
+../Core/Src/main.c:498:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:604:6:Error_Handler	4	static,ignoring_inline_asm
